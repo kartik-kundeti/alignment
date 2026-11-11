@@ -1,6 +1,6 @@
 """Shared entry point: streamlit run streamlit_app.py."""
 import streamlit as st
-from app.organizational.dashboard import main as team_diagnostic
+from app.organizational.comms_dashboard import main as team_diagnostic
 from app.tool1.dashboard import main as message_coach
 
 
@@ -39,8 +39,8 @@ def overview():
     with st.container(key='tool-card-two'):
         st.markdown('<div class="ca-tag">Tool 2 · Explore team signals</div>',unsafe_allow_html=True)
         st.header('Team Diagnostic')
-        st.write('Explore aggregate survey patterns and turn a selected signal into a structured team discussion.')
-        st.markdown('- See relative strengths and areas to explore.\n- Review evidence and privacy limitations.\n- Capture learning and export a follow-up summary.')
+        st.write('Find the communication themes a team, or the whole company, should work on, based on team survey results.')
+        st.markdown('- See the communication gaps that stand out for a team.\n- See what research says about each one.\n- Get habits to practice and a question to ask the team.')
         st.caption('Currently uses synthetic demonstration data. Small-group results are suppressed by the reporting rule.')
         if st.button('Open',key='open-team-diagnostic',type='primary',use_container_width=True):
             st.switch_page(st.Page(team_diagnostic,title='Tool 2 — Team Diagnostic',url_path='team-diagnostic'))

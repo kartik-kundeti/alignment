@@ -1,0 +1,615 @@
+department,team_id,period,respondent_id,Q01,Q02,Q03,Q04,Q05,Q06,Q07,Q08,Q09,Q10,Q11,Q12
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-001,5,3,4,4,4,3,4,4,5,5,4,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-002,4,3,4,3,2,3,3,3,4,2,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-003,4,3,3,3,4,4,4,3,4,3,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-004,2,2,4,3,4,4,3,4,3,4,4,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-005,4,3,3,3,3,3,5,3,4,3,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-006,4,4,5,4,5,5,3,5,3,3,4,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-007,3,3,4,3,2,3,4,3,3,3,3,
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-008,3,3,4,3,2,2,3,5,4,3,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-009,3,3,3,4,3,5,3,4,4,4,4,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-010,5,4,4,4,4,4,3,4,4,,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-011,3,4,3,4,4,5,4,2,4,4,4,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-012,5,4,4,4,4,4,4,5,4,5,5,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-013,5,3,4,4,3,4,3,4,5,4,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-014,3,3,4,4,3,4,3,4,5,4,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-015,4,5,5,4,4,5,5,5,5,3,3,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-016,3,4,3,4,3,5,4,4,3,3,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-017,4,3,5,3,3,4,4,4,3,3,4,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-018,3,3,2,2,2,2,4,1,2,2,3,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-019,5,3,5,5,5,4,5,5,4,5,5,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-020,4,3,5,4,2,3,4,3,3,4,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-021,4,3,3,3,3,4,4,3,4,4,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-022,3,4,4,3,4,3,3,2,2,3,3,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-023,3,2,4,2,5,4,3,3,5,3,3,2
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-024,4,4,4,4,4,3,3,4,4,4,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-025,1,2,3,3,2,2,3,3,3,3,2,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-026,4,5,5,4,5,4,4,5,5,4,4,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-027,5,4,5,4,5,4,4,4,4,4,3,5
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-028,4,3,4,4,4,4,4,4,4,4,3,3
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-029,5,4,4,4,4,,4,4,4,3,4,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-030,4,4,4,3,3,4,4,3,4,3,3,4
+Operations,SYNTHETIC_Operations_Dispatch,SYNTHETIC_PERIOD_1,Operations_Dispatch-031,3,3,3,3,3,2,4,2,4,3,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-001,4,4,4,4,4,4,3,4,4,4,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-002,4,4,3,3,3,,4,4,4,4,3,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-003,4,5,5,3,4,5,5,5,4,5,5,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-004,3,3,3,4,4,3,5,4,4,4,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-005,3,3,3,4,3,3,4,3,4,3,3,2
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-006,2,4,4,3,4,4,3,3,5,5,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-007,3,3,5,3,3,4,5,4,4,3,2,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-008,5,5,5,5,5,5,5,5,5,5,5,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-009,4,4,5,4,2,4,5,5,5,5,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-010,4,4,4,4,3,3,5,4,3,5,3,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-011,5,3,3,3,5,3,4,3,3,4,3,3
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-012,3,3,3,3,2,3,4,5,3,3,4,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-013,5,5,5,5,4,5,5,4,5,4,5,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-014,2,3,4,3,3,3,4,3,4,2,3,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-015,5,4,3,3,4,4,5,4,4,5,4,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-016,5,4,5,5,4,5,4,5,5,5,5,5
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-017,5,4,5,3,3,3,2,4,4,5,3,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-018,4,3,4,4,2,4,4,3,3,3,3,4
+Operations,SYNTHETIC_Operations_Warehouse,SYNTHETIC_PERIOD_1,Operations_Warehouse-019,2,2,4,3,3,3,3,4,3,2,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-001,3,4,4,3,4,3,4,4,4,3,3,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-002,5,3,4,4,4,4,3,4,5,5,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-003,5,4,4,4,,3,4,3,4,4,4,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-004,4,5,5,5,4,5,3,3,4,3,4,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-005,4,3,4,4,4,4,4,4,4,5,4,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-006,4,4,3,3,4,3,3,5,4,3,3,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-007,4,4,4,3,4,3,4,4,5,4,3,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-008,4,4,2,5,3,3,4,3,3,4,3,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-009,4,4,5,3,4,1,2,3,4,3,4,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-010,4,4,4,4,4,4,4,4,5,3,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-011,5,4,4,4,4,4,4,4,5,4,4,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-012,4,4,3,4,3,4,4,3,4,4,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-013,2,3,2,,2,4,3,3,3,4,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-014,4,4,4,4,2,3,2,5,3,4,3,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-015,3,3,3,4,3,3,3,2,3,2,2,2
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-016,4,5,4,5,4,5,,5,5,5,5,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-017,4,4,3,4,4,3,4,3,4,3,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-018,4,4,5,4,4,4,4,4,5,5,4,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-019,3,4,2,3,3,2,2,1,3,3,2,2
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-020,3,4,4,3,3,4,4,5,4,4,3,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-021,4,4,4,4,4,3,3,3,4,4,4,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-022,5,4,5,4,4,4,5,4,5,5,4,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-023,4,4,4,1,3,4,3,3,4,4,4,3
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-024,5,5,5,4,3,4,4,5,5,4,5,5
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-025,5,4,4,5,3,4,5,4,4,4,5,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-026,5,5,5,4,5,3,4,4,4,4,5,4
+Operations,SYNTHETIC_Operations_Fleet,SYNTHETIC_PERIOD_1,Operations_Fleet-027,3,5,5,4,4,4,4,3,5,5,4,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-001,4,4,5,4,3,4,4,4,5,4,5,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-002,3,2,3,2,3,3,3,3,3,3,3,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-003,5,5,5,5,4,5,5,5,5,4,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-004,4,4,5,4,3,5,3,3,4,4,3,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-005,4,5,4,4,4,4,4,4,4,4,4,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-006,4,4,5,4,3,4,4,4,5,4,4,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-007,5,4,4,3,4,,5,5,4,5,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-008,4,3,4,4,4,4,5,3,4,3,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-009,5,4,4,4,4,3,5,4,4,4,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-010,4,5,5,4,4,5,4,4,5,5,5,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-011,4,4,,3,4,3,3,,4,4,3,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-012,3,3,5,2,2,3,4,4,4,3,5,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-013,3,4,4,4,3,4,4,4,5,,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-014,3,4,,4,3,3,3,3,4,4,4,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-015,3,2,5,3,2,3,3,4,4,4,4,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-016,,5,4,5,4,5,4,5,4,4,4,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-017,5,4,5,5,4,5,,4,5,4,4,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-018,3,4,3,3,4,4,3,3,5,3,3,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-019,5,4,5,4,4,4,4,5,5,4,4,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-020,4,5,4,3,5,4,4,5,5,5,4,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-021,4,5,4,3,3,4,4,4,4,4,5,4
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-022,,4,5,4,4,3,4,4,4,4,4,5
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-023,4,2,3,,3,3,3,4,5,3,4,3
+Operations,SYNTHETIC_Operations_Planning,SYNTHETIC_PERIOD_1,Operations_Planning-024,5,4,5,4,5,4,5,4,5,4,5,5
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-001,5,4,4,5,4,4,5,5,5,5,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-002,4,2,,4,3,3,4,3,4,3,,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-003,4,4,3,4,3,2,4,2,4,5,4,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-004,4,4,3,4,2,3,3,3,4,2,3,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-005,5,4,4,3,5,4,4,4,5,4,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-006,4,3,5,4,5,4,4,3,4,4,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-007,4,4,3,3,4,3,4,4,4,2,4,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-008,4,3,,3,4,4,4,,5,4,3,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-009,3,3,3,3,4,4,3,4,4,3,3,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-010,5,3,3,4,5,3,4,5,4,4,3,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-011,5,2,3,4,5,3,4,5,4,5,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-012,4,3,5,5,3,5,5,4,5,4,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-013,4,5,4,4,5,4,5,5,5,5,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-014,,3,3,3,4,4,4,3,5,4,5,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-015,4,3,5,4,4,4,4,4,4,5,4,5
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-016,5,3,4,5,5,3,3,,,3,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-017,5,3,4,4,4,5,4,4,5,3,4,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-018,4,4,4,5,4,4,4,4,5,5,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-019,5,3,3,4,4,3,3,3,4,3,3,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-020,4,3,4,5,,,5,5,4,5,5,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-021,5,5,5,5,4,5,5,5,5,5,5,5
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-022,5,4,3,4,4,4,5,4,5,5,3,5
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-023,3,3,3,5,3,3,4,4,4,4,5,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-024,5,5,5,4,4,4,4,5,5,3,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-025,4,4,5,5,4,4,4,4,5,4,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-026,5,4,4,3,3,4,4,4,4,5,4,4
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-027,3,1,3,2,2,2,2,2,3,3,3,3
+Operations,SYNTHETIC_Operations_Quality,SYNTHETIC_PERIOD_1,Operations_Quality-028,4,4,4,4,2,4,4,4,5,4,3,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-001,3,3,3,4,3,5,4,3,4,3,4,2
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-002,3,3,3,3,,4,4,2,4,3,4,3
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-003,5,3,4,4,4,4,5,3,4,4,4,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-004,4,2,3,3,4,,5,3,4,3,4,3
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-005,5,5,5,5,5,5,5,5,5,5,5,5
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-006,4,4,4,4,3,5,4,3,4,5,,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-007,4,4,5,4,4,4,5,4,4,4,5,5
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-008,5,4,4,4,2,3,3,4,4,3,3,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-009,5,4,3,4,4,5,4,3,5,4,4,5
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-010,4,5,4,4,4,5,5,4,4,4,5,
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-011,4,4,4,3,4,4,4,4,5,5,4,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-012,5,4,4,4,4,5,3,3,4,3,5,5
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-013,5,4,4,5,4,4,5,5,5,3,5,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-014,4,4,4,3,3,3,4,3,5,4,5,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-015,5,5,4,5,4,5,4,4,4,4,4,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-016,4,4,4,4,5,4,4,3,,5,4,4
+Sales,SYNTHETIC_Sales_Enterprise,SYNTHETIC_PERIOD_1,Sales_Enterprise-017,4,,5,4,4,5,5,4,5,4,5,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-001,5,3,4,5,4,3,3,4,3,4,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-002,5,4,4,4,4,5,4,5,4,5,4,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-003,4,4,4,5,4,3,4,3,4,5,5,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-004,4,4,4,4,4,3,,3,3,4,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-005,4,,4,4,4,2,3,5,3,3,,3
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-006,3,4,3,4,4,4,4,4,4,4,5,3
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-007,4,4,4,5,4,4,4,4,4,4,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-008,4,4,2,4,4,3,5,3,4,3,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-009,4,5,4,5,5,4,5,5,5,4,5,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-010,3,4,3,5,3,4,4,4,3,2,3,3
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-011,5,4,3,5,5,4,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-012,5,4,4,4,5,4,4,5,4,3,5,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-013,3,,3,3,4,2,3,3,3,3,3,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-014,5,4,4,4,4,4,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-015,5,3,4,3,4,4,4,3,4,3,3,3
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-016,4,3,4,5,4,,4,3,4,3,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-017,3,3,4,4,3,3,4,5,2,4,4,
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-018,4,3,3,4,3,4,3,3,2,4,4,3
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-019,3,4,5,4,4,4,4,4,4,4,4,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-020,4,4,2,3,5,3,3,2,2,3,3,
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-021,4,4,4,5,4,4,3,4,4,4,,4
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-022,5,4,4,5,5,4,4,,3,4,4,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-023,4,4,3,4,3,4,4,4,4,4,3,5
+Sales,SYNTHETIC_Sales_Midmarket,SYNTHETIC_PERIOD_1,Sales_Midmarket-024,2,,3,,3,3,4,3,3,5,4,5
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-001,5,4,4,3,3,4,5,3,4,5,3,5
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-002,3,4,4,4,4,3,4,4,3,5,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-003,4,4,4,3,4,4,4,3,5,4,4,5
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-004,4,5,4,4,5,5,5,4,5,4,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-005,3,4,3,4,4,4,4,5,4,4,4,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-006,5,4,4,5,5,5,5,5,5,5,5,5
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-007,5,5,5,5,5,4,5,5,5,5,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-008,4,4,4,5,5,4,4,4,4,4,3,3
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-009,5,5,5,4,5,5,5,4,4,5,3,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-010,5,4,4,3,5,5,5,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-011,3,4,3,3,4,3,3,4,4,4,3,2
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-012,3,4,4,3,4,3,3,3,3,3,4,3
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-013,4,4,5,2,4,4,4,4,5,5,4,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-014,4,4,5,4,5,4,,4,3,2,4,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-015,3,3,3,3,5,3,4,3,2,3,3,3
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-016,4,2,4,3,4,3,3,3,3,3,3,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-017,4,5,5,4,4,3,5,3,4,4,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-018,4,4,4,5,5,3,5,4,4,3,4,3
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-019,5,4,5,5,5,4,5,5,5,4,5,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-020,4,4,5,3,4,4,5,4,3,4,4,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-021,5,4,5,4,5,5,5,4,5,4,5,5
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-022,3,4,5,3,4,4,4,4,4,5,4,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-023,3,3,5,4,4,3,4,3,4,4,3,4
+Sales,SYNTHETIC_Sales_Inside,SYNTHETIC_PERIOD_1,Sales_Inside-024,2,4,3,2,3,3,4,3,3,2,4,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-001,3,2,3,4,3,4,3,3,4,3,2,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-002,3,4,4,3,3,4,3,2,3,4,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-003,5,5,5,5,5,4,4,4,4,,4,5
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-004,4,4,3,4,5,5,4,5,3,4,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-005,3,4,4,,5,2,3,4,4,3,3,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-006,5,4,3,4,4,4,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-007,4,4,3,4,5,3,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-008,4,4,3,3,2,3,3,3,5,3,4,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-009,4,3,4,2,4,4,4,3,5,4,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-010,4,4,3,3,3,4,4,3,4,3,3,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-011,4,4,3,3,3,3,4,3,4,4,,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-012,4,4,5,3,3,3,4,5,4,3,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-013,4,4,4,4,4,4,5,4,3,5,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-014,5,4,4,4,4,5,5,4,5,5,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-015,4,4,4,3,4,4,4,4,4,3,4,5
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-016,5,5,4,4,5,4,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-017,4,4,3,5,4,4,4,4,4,4,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-018,4,3,5,5,3,4,5,3,4,3,4,5
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-019,5,5,5,4,4,5,,4,5,5,3,5
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-020,3,4,5,4,3,4,5,5,4,5,4,5
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-021,5,3,5,5,4,4,4,5,4,4,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-022,4,4,2,3,3,2,2,3,4,2,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-023,4,,5,3,4,4,4,4,4,4,5,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-024,3,3,4,3,4,4,3,4,4,3,4,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-025,2,2,3,2,2,2,3,4,2,2,3,3
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-026,5,5,3,3,5,4,4,4,4,5,4,4
+Sales,SYNTHETIC_Sales_Partners,SYNTHETIC_PERIOD_1,Sales_Partners-027,4,3,2,3,2,3,3,3,3,2,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-001,4,3,5,4,3,5,3,4,5,4,3,5
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-002,4,3,4,4,4,,4,4,5,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-003,3,4,3,2,4,3,2,3,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-004,3,3,4,4,3,4,3,4,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-005,5,,4,4,5,5,3,4,4,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-006,3,3,3,2,4,3,1,3,3,2,3,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-007,4,3,3,3,4,4,4,4,4,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-008,4,4,5,4,4,4,4,4,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-009,3,3,3,3,3,4,3,3,4,4,3,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-010,4,3,4,2,4,3,4,4,4,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-011,5,3,5,4,4,,4,4,5,5,5,3
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-012,3,4,4,4,3,3,2,2,4,4,4,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-013,4,3,4,3,4,3,2,3,4,3,2,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-014,5,3,4,4,5,4,5,4,5,5,4,5
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-015,4,4,5,3,4,4,2,4,4,4,,
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-016,2,3,4,2,4,4,2,3,4,3,4,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-017,3,4,4,4,4,4,3,4,5,5,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-018,3,3,3,3,2,3,3,2,2,3,3,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-019,5,4,4,4,3,4,3,4,4,,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-020,4,4,4,4,5,5,2,5,3,,3,4
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-021,4,4,,3,3,4,3,4,4,4,4,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-022,4,3,5,5,4,3,3,5,5,5,5,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-023,4,3,5,3,3,3,3,3,3,4,4,2
+Customer Support,SYNTHETIC_Customer_Support_Tier1,SYNTHETIC_PERIOD_1,Customer_Support_Tier1-024,3,3,3,2,2,4,2,1,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-001,4,3,4,4,4,4,2,3,2,4,3,2
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-002,4,4,4,4,3,4,2,4,4,3,5,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-003,4,3,4,4,4,,4,4,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-004,4,3,4,4,4,3,3,,3,4,3,2
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-005,5,5,4,4,4,4,3,5,4,5,3,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-006,5,4,5,5,5,4,4,5,5,5,4,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-007,4,2,4,3,3,4,2,4,4,3,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-008,5,4,5,5,5,4,4,4,5,4,5,
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-009,5,5,4,5,5,5,4,5,5,5,4,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-010,5,5,4,4,4,5,3,4,4,3,3,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-011,5,4,5,4,5,5,3,4,4,2,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-012,4,3,3,3,4,4,2,5,3,5,3,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-013,4,3,3,3,4,3,3,4,,5,3,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-014,5,4,3,4,5,4,3,5,4,3,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-015,5,4,4,4,5,5,3,4,3,3,4,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-016,5,5,5,5,5,4,3,4,4,5,4,
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-017,5,3,4,4,4,4,4,5,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-018,5,3,5,4,5,5,4,4,3,4,5,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-019,3,3,4,3,4,3,4,4,3,4,2,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-020,3,3,3,4,4,4,1,3,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-021,4,4,3,4,3,5,1,4,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-022,4,4,4,4,3,4,4,3,4,2,4,5
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-023,3,3,3,1,3,3,2,3,3,4,,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-024,4,3,4,4,4,4,4,3,4,3,4,4
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-025,4,3,4,3,4,4,3,3,4,5,3,3
+Customer Support,SYNTHETIC_Customer_Support_Tier2,SYNTHETIC_PERIOD_1,Customer_Support_Tier2-026,5,5,4,,5,4,4,5,,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-001,4,5,4,4,5,4,4,4,5,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-002,3,3,3,3,4,4,2,4,4,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-003,5,4,4,4,5,4,4,5,5,5,5,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-004,5,4,4,4,5,4,4,4,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-005,4,4,4,3,5,3,5,5,4,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-006,4,4,3,3,4,4,3,3,4,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-007,3,3,3,3,4,3,3,4,3,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-008,4,3,4,3,5,3,3,4,5,3,5,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-009,4,5,3,3,5,4,4,4,4,3,4,5
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-010,4,5,3,4,4,3,3,3,4,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-011,4,4,4,3,4,3,3,4,5,5,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-012,5,5,4,5,5,4,5,5,5,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-013,3,5,5,4,4,4,3,5,4,5,,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-014,3,3,3,3,3,3,3,5,3,4,5,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-015,5,5,4,5,5,5,4,5,5,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-016,3,5,4,3,4,5,2,4,4,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-017,2,4,3,3,3,3,2,3,5,3,3,1
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-018,4,5,4,3,4,4,2,4,5,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-019,3,4,3,2,4,4,3,5,4,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-020,4,4,4,3,4,4,4,4,5,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-021,5,5,,4,5,3,3,3,4,5,3,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-022,3,3,3,3,4,3,2,4,4,2,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-023,3,4,4,4,5,5,3,4,5,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-024,3,4,2,3,3,3,2,4,5,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Onboarding,SYNTHETIC_PERIOD_1,Customer_Support_Onboarding-025,3,4,3,4,4,3,4,4,3,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-001,4,3,4,4,3,3,2,3,3,3,3,2
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-002,5,4,5,5,4,5,5,5,4,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-003,4,3,4,4,4,4,3,4,4,5,5,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-004,4,5,4,5,4,5,3,4,4,4,4,5
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-005,4,4,4,3,4,5,4,4,4,5,5,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-006,3,3,5,4,4,4,4,4,4,4,3,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-007,4,4,5,4,4,4,4,4,3,,4,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-008,5,4,,5,5,4,4,5,4,4,5,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-009,4,3,4,5,5,4,4,5,5,5,4,4
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-010,3,4,4,3,3,3,,5,4,5,4,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-011,4,4,4,5,,5,5,5,5,5,5,4
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-012,3,3,3,4,2,3,3,4,3,3,3,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-013,4,4,5,5,5,4,5,3,3,5,4,5
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-014,4,4,3,4,2,4,2,3,4,4,4,2
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-015,3,3,4,5,4,2,4,3,3,4,3,4
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-016,4,4,4,5,4,3,3,4,3,5,3,5
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-017,4,4,4,3,4,4,3,5,3,5,3,3
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-018,4,3,5,2,4,4,3,3,3,3,3,4
+Customer Support,SYNTHETIC_Customer_Support_Escalations,SYNTHETIC_PERIOD_1,Customer_Support_Escalations-019,5,5,5,4,5,5,5,5,,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-001,2,4,3,2,3,4,3,4,4,3,3,3
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-002,4,5,5,4,4,5,3,4,5,4,4,5
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-003,4,3,5,,4,4,3,5,4,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-004,3,4,5,4,5,4,4,4,4,4,3,5
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-005,4,4,4,4,4,4,4,4,5,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-006,5,4,5,4,5,5,4,5,4,4,4,3
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-007,3,3,4,4,4,4,2,4,5,3,4,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-008,3,4,3,4,3,5,4,3,4,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-009,4,3,,4,4,5,3,5,4,4,3,5
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-010,5,3,5,5,5,5,4,4,5,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-011,4,,3,4,3,,2,3,4,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-012,4,4,4,4,4,4,3,5,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-013,4,4,5,2,4,5,2,4,3,3,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-014,4,5,5,5,5,5,4,,5,5,5,5
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-015,4,5,3,4,,4,3,,5,5,4,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-016,5,,3,4,4,5,3,5,5,4,5,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-017,4,3,3,3,4,5,2,4,3,3,4,3
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-018,5,4,4,4,5,5,4,3,4,4,4,4
+Customer Support,SYNTHETIC_Customer_Support_Billing_Help,SYNTHETIC_PERIOD_1,Customer_Support_Billing_Help-019,4,4,4,4,4,5,4,,4,4,4,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-001,4,4,3,3,4,5,3,4,3,4,3,3
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-002,4,5,3,4,3,5,4,4,5,3,3,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-003,5,4,4,3,5,5,4,4,5,5,3,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-004,3,4,2,2,3,3,4,3,2,4,3,3
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-005,4,3,4,2,2,3,3,3,3,3,4,3
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-006,4,3,5,2,4,4,3,3,4,4,3,3
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-007,4,3,4,3,3,4,3,4,2,4,3,2
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-008,4,4,5,3,4,4,3,5,4,5,3,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-009,5,4,4,4,5,4,3,3,4,4,4,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-010,4,4,4,3,3,5,4,4,4,5,5,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-011,4,5,4,3,4,5,4,5,5,5,5,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-012,5,4,5,4,5,5,3,5,5,5,4,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-013,4,,4,5,5,4,5,5,5,5,5,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-014,4,4,,3,4,4,4,,5,4,4,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-015,4,4,4,3,5,4,3,4,3,5,4,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-016,3,4,5,3,3,5,2,4,4,4,3,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-017,4,3,3,3,3,3,3,2,3,4,3,4
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-018,3,4,4,3,4,4,4,4,3,5,,5
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-019,3,3,4,2,3,4,3,4,4,4,4,3
+Engineering,SYNTHETIC_Engineering_Platform,SYNTHETIC_PERIOD_1,Engineering_Platform-020,5,,4,3,5,5,4,5,5,5,3,4
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-001,3,,4,3,4,3,3,4,4,4,3,3
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-002,5,4,5,5,4,4,4,4,4,5,4,4
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-003,3,3,4,4,3,3,3,4,3,3,4,2
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-004,3,4,3,3,4,2,2,5,3,3,4,2
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-005,5,4,5,4,5,4,5,5,4,4,4,5
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-006,5,5,4,4,4,5,4,4,5,5,3,5
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-007,4,3,4,5,3,3,4,4,4,5,4,5
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-008,5,5,5,5,4,4,5,5,5,5,5,5
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-009,3,,4,4,4,3,3,5,4,4,3,5
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-010,3,3,3,3,4,4,3,3,3,3,3,2
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-011,5,4,3,5,5,4,3,3,4,4,4,4
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-012,4,5,5,5,5,,4,4,4,5,5,4
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-013,5,3,5,5,4,5,4,4,3,5,5,3
+Engineering,SYNTHETIC_Engineering_Mobile,SYNTHETIC_PERIOD_1,Engineering_Mobile-014,4,4,5,5,4,2,3,3,3,3,5,
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-001,3,4,2,4,2,4,4,4,3,4,3,
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-002,3,,3,2,4,3,3,3,3,3,3,3
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-003,5,4,4,4,4,3,3,5,5,4,5,5
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-004,5,5,5,5,5,5,5,5,5,5,5,5
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-005,4,3,4,3,4,3,4,3,2,4,3,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-006,4,3,4,5,4,5,5,4,5,3,4,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-007,5,4,5,4,5,5,5,4,3,4,5,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-008,5,4,5,5,5,5,5,5,5,5,5,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-009,3,3,2,3,4,3,3,3,4,3,3,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-010,5,4,4,4,5,4,5,4,5,5,5,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-011,3,2,4,4,3,4,4,,4,4,4,3
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-012,4,4,4,4,4,4,5,2,3,4,5,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-013,5,3,5,4,4,3,2,3,4,2,4,4
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-014,3,3,3,4,4,3,3,4,4,3,4,3
+Engineering,SYNTHETIC_Engineering_Data,SYNTHETIC_PERIOD_1,Engineering_Data-015,4,2,2,4,4,3,5,3,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-001,4,5,,5,5,5,4,4,5,4,5,3
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-002,4,4,3,4,3,2,4,5,4,4,3,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-003,5,4,4,2,4,3,3,4,3,3,3,
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-004,5,3,4,4,4,5,5,4,,5,4,5
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-005,3,2,4,4,3,4,4,5,3,4,5,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-006,3,5,5,4,4,4,5,3,5,4,4,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-007,3,3,3,3,5,4,3,3,3,3,2,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-008,4,4,4,3,5,4,3,3,3,4,5,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-009,2,2,3,3,4,2,2,4,3,2,2,3
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-010,4,4,4,3,4,3,5,4,5,4,4,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-011,3,3,4,3,4,3,4,3,2,3,4,2
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-012,3,4,4,5,5,4,4,4,5,5,5,5
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-013,4,5,5,5,5,5,3,5,4,4,5,5
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-014,3,3,3,3,4,2,4,3,3,3,2,5
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-015,4,3,4,4,3,3,4,4,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-016,5,5,5,4,5,5,5,5,4,4,5,5
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-017,3,3,4,3,4,2,4,3,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Infrastructure,SYNTHETIC_PERIOD_1,Engineering_Infrastructure-018,3,4,3,2,4,4,3,4,3,3,3,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-001,4,4,4,3,4,3,4,5,4,3,3,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-002,3,2,4,4,4,3,3,3,4,3,3,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-003,3,3,3,3,4,2,3,4,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-004,5,4,4,4,4,4,4,4,4,4,4,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-005,2,5,4,2,4,3,3,4,4,5,5,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-006,2,3,3,2,5,4,4,3,3,3,3,3
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-007,4,4,4,3,4,5,3,4,4,4,4,3
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-008,1,3,3,2,3,3,3,2,3,2,3,3
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-009,3,,4,4,4,4,3,3,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-010,3,3,4,4,4,3,3,3,5,4,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-011,5,3,4,4,4,4,3,4,3,5,4,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-012,4,4,5,4,5,3,5,4,5,4,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-013,5,5,5,4,5,5,5,5,4,5,5,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-014,3,5,3,3,5,5,5,3,3,5,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-015,4,4,4,4,4,4,2,,3,4,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-016,4,3,3,5,5,3,3,4,3,4,3,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-017,3,3,5,2,3,3,4,3,3,3,5,3
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-018,4,4,5,3,5,5,4,5,5,4,5,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-019,3,4,3,5,5,5,,4,4,3,5,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-020,3,3,3,4,4,4,2,5,4,3,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-021,3,5,4,4,5,4,4,5,3,5,5,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-022,4,4,4,3,3,5,2,4,4,3,4,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-023,5,5,5,5,,5,5,4,4,5,5,5
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-024,4,5,5,4,5,4,4,5,4,5,4,4
+Engineering,SYNTHETIC_Engineering_Security,SYNTHETIC_PERIOD_1,Engineering_Security-025,4,5,3,3,5,3,4,4,3,4,4,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-001,5,5,5,5,4,4,4,5,4,4,4,5
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-002,5,5,4,4,4,5,5,4,4,5,4,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-003,3,3,2,3,3,3,3,4,3,,3,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-004,4,4,4,4,4,4,5,3,4,5,5,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-005,4,4,4,5,5,4,4,3,5,4,3,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-006,4,5,4,5,5,5,5,3,5,4,5,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-007,4,3,3,3,4,4,4,,3,4,4,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-008,4,4,4,5,4,3,5,5,4,4,4,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-009,5,5,4,4,4,4,4,5,5,4,5,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-010,5,4,,4,5,5,5,4,4,5,4,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-011,5,4,4,4,5,5,5,5,5,4,,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-012,5,4,4,4,4,3,4,4,4,4,5,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-013,5,5,4,4,5,3,3,,3,4,4,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-014,5,5,4,5,5,5,4,,5,4,3,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-015,5,,5,5,5,5,4,4,5,4,5,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-016,5,4,4,4,4,4,3,4,4,5,5,2
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-017,4,4,5,4,5,4,4,3,5,4,4,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-018,4,2,3,2,4,3,3,,3,3,4,3
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-019,4,5,3,3,4,4,5,3,4,5,5,5
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-020,5,4,4,4,4,4,4,3,4,5,3,4
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-021,5,5,5,5,5,5,5,5,5,5,5,5
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-022,5,5,5,4,5,,5,4,5,5,5,5
+Finance,SYNTHETIC_Finance_Payables,SYNTHETIC_PERIOD_1,Finance_Payables-023,4,4,4,4,5,4,4,4,5,5,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-001,5,4,3,4,3,4,5,5,5,2,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-002,5,4,3,4,5,5,5,3,4,4,5,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-003,5,3,5,5,5,4,5,5,5,3,5,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-004,4,4,5,4,4,4,4,4,,4,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-005,4,5,4,4,4,3,4,5,4,3,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-006,4,4,2,3,3,3,3,3,4,3,3,3
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-007,4,4,4,5,4,5,4,5,4,4,3,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-008,4,4,4,4,4,4,4,3,4,4,3,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-009,5,3,3,4,4,4,3,4,4,2,3,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-010,5,5,4,5,4,5,5,5,5,5,5,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-011,5,3,3,5,4,4,5,4,4,4,5,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-012,5,5,4,5,5,5,4,5,5,5,5,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-013,5,4,4,5,4,4,4,4,5,4,5,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-014,5,5,4,5,5,5,4,5,5,4,5,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-015,4,4,4,4,4,4,3,4,3,3,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-016,3,3,4,4,5,3,4,4,4,3,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-017,5,5,3,5,5,4,,5,5,5,5,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-018,5,4,4,4,5,5,4,5,3,4,4,3
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-019,4,4,4,4,5,4,4,4,4,4,5,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-020,5,3,2,3,4,3,3,2,4,2,3,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-021,4,4,4,3,3,2,4,3,4,4,3,5
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-022,5,3,3,3,5,4,4,3,3,3,4,4
+Finance,SYNTHETIC_Finance_Receivables,SYNTHETIC_PERIOD_1,Finance_Receivables-023,4,4,3,4,5,3,4,5,4,5,5,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-001,5,5,5,,5,5,4,5,,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-002,5,4,4,5,5,5,5,5,5,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-003,5,4,5,5,4,5,5,5,4,5,5,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-004,4,4,4,3,5,5,4,3,4,5,5,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-005,3,3,3,3,3,4,4,3,3,3,3,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-006,4,4,4,4,3,3,4,4,3,4,4,
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-007,3,3,3,4,4,,4,4,4,4,3,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-008,4,5,3,4,4,4,5,4,4,4,5,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-009,5,3,4,4,5,5,4,4,2,,4,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-010,4,3,4,5,4,5,4,3,3,5,4,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-011,4,4,4,5,3,4,3,,3,3,4,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-012,4,5,5,5,5,3,5,4,3,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-013,5,4,4,5,3,4,5,4,4,3,5,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-014,3,3,3,3,4,3,3,2,3,3,2,2
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-015,4,4,5,4,5,,5,5,4,4,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-016,4,4,5,4,5,5,5,4,4,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-017,5,4,4,4,5,5,4,4,4,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-018,4,3,4,4,3,5,4,2,4,4,4,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-019,5,5,5,5,4,5,5,5,5,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-020,,5,4,4,4,4,4,4,4,4,4,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-021,3,4,3,4,4,3,5,5,3,3,4,4
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-022,4,4,4,4,5,5,5,4,4,5,5,5
+Finance,SYNTHETIC_Finance_Planning_FPandA,SYNTHETIC_PERIOD_1,Finance_Planning_FPandA-023,5,5,5,5,5,5,5,4,5,5,5,
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-001,5,5,4,4,4,5,4,4,5,5,4,5
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-002,4,4,2,3,3,3,4,4,3,4,3,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-003,5,4,4,4,4,5,4,4,4,4,3,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-004,4,4,3,4,3,3,5,4,2,4,4,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-005,5,5,5,4,5,4,4,4,5,5,5,5
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-006,5,4,5,4,5,5,,3,3,5,4,5
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-007,4,4,5,3,4,4,5,3,5,4,4,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-008,5,4,,3,5,4,5,3,5,4,5,5
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-009,4,3,3,4,5,2,4,3,4,4,3,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-010,3,4,3,3,3,4,5,4,3,4,3,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-011,5,4,4,5,4,4,4,3,4,5,4,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-012,5,3,2,3,3,4,5,3,3,,3,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-013,5,3,4,5,5,5,5,3,5,5,5,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-014,5,3,4,4,5,4,4,4,4,4,4,5
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-015,5,4,4,4,3,4,4,3,3,4,4,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-016,5,4,,4,4,4,4,4,5,4,4,3
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-017,4,4,3,4,4,,3,4,4,3,4,4
+Finance,SYNTHETIC_Finance_Audit,SYNTHETIC_PERIOD_1,Finance_Audit-018,5,4,5,3,4,4,4,3,4,4,4,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-001,4,5,4,4,5,4,4,4,4,5,5,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-002,3,4,4,,4,3,4,4,3,4,5,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-003,2,3,3,3,3,4,4,4,3,4,3,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-004,3,4,4,3,4,4,2,3,4,4,4,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-005,4,4,5,5,5,5,5,4,5,5,5,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-006,5,4,5,4,4,5,5,5,5,4,5,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-007,3,5,4,3,4,3,4,4,4,4,4,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-008,3,4,4,4,4,4,5,4,5,5,4,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-009,3,5,4,3,4,,4,4,5,5,4,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-010,4,3,4,2,4,3,5,4,3,4,4,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-011,4,4,5,4,5,5,5,4,5,4,4,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-012,4,5,5,5,4,5,5,5,5,5,5,
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-013,4,4,4,3,3,3,,4,4,4,5,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-014,3,4,,3,3,3,2,2,,3,4,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-015,4,4,4,3,3,3,4,4,4,5,3,5
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-016,4,4,5,5,5,4,4,3,5,5,5,
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-017,4,5,5,5,5,4,5,5,5,5,,4
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-018,3,3,4,4,4,4,3,4,4,5,4,
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-019,4,3,4,3,3,3,3,3,3,4,4,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-020,3,3,4,3,4,4,,5,4,4,3,3
+People,SYNTHETIC_People_Recruiting,SYNTHETIC_PERIOD_1,People_Recruiting-021,2,4,4,3,5,3,3,4,3,5,4,3
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-001,4,5,4,4,5,4,4,4,4,4,2,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-002,5,5,5,4,5,5,5,5,5,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-003,5,5,3,4,5,4,5,4,5,5,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-004,4,4,3,4,5,4,5,4,4,4,4,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-005,5,5,4,4,5,4,5,5,5,5,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-006,3,5,3,3,5,4,4,,,4,3,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-007,4,4,2,4,4,3,,4,4,4,,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-008,5,4,5,4,5,4,3,4,4,5,4,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-009,3,5,3,3,5,3,4,3,3,4,4,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-010,5,5,4,5,5,4,5,5,5,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-011,5,5,5,4,5,5,4,4,4,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-012,4,5,2,3,5,3,5,4,5,5,4,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-013,5,5,,4,5,5,4,5,5,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-014,4,5,5,4,4,4,4,4,4,4,3,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-015,4,5,4,4,4,4,4,4,4,4,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-016,4,5,5,5,5,4,4,5,5,5,3,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-017,,5,4,4,5,5,3,5,4,4,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-018,5,,5,4,5,4,4,4,5,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-019,5,5,5,3,5,4,5,5,4,4,4,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-020,3,4,4,3,5,3,4,3,3,4,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-021,3,5,5,4,,,4,4,3,4,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-022,5,5,3,2,4,2,3,3,4,3,3,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-023,4,5,5,4,4,5,4,4,4,4,3,3
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-024,4,5,4,4,5,4,4,4,5,4,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-025,5,5,5,4,5,5,5,4,5,5,5,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-026,3,4,3,4,4,3,4,4,4,4,2,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-027,4,5,4,4,3,3,4,4,4,5,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-028,4,4,5,4,4,3,5,3,4,3,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-029,4,4,3,4,5,4,3,3,3,4,3,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-030,5,5,4,2,3,3,4,3,3,4,3,4
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-031,4,4,3,2,5,3,4,3,3,5,3,
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-032,5,5,4,4,5,4,5,5,5,4,4,5
+People,SYNTHETIC_People_Learning,SYNTHETIC_PERIOD_1,People_Learning-033,3,4,4,,5,3,4,3,4,5,4,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-001,3,4,4,3,3,3,3,3,4,3,3,3
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-002,4,4,3,5,5,3,4,5,5,4,4,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-003,4,4,4,4,3,5,4,3,4,3,4,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-004,4,5,4,4,4,4,4,4,3,3,5,5
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-005,3,5,4,5,4,4,5,5,5,5,5,5
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-006,4,,4,4,5,4,5,3,4,4,4,3
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-007,3,2,4,3,4,5,3,4,3,4,5,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-008,2,3,4,3,3,3,3,3,3,3,3,3
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-009,5,5,5,4,4,4,4,4,5,4,,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-010,5,5,5,4,5,5,5,4,5,5,5,5
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-011,5,2,3,3,3,4,3,3,4,4,4,3
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-012,3,4,,4,5,4,3,3,4,4,4,3
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-013,5,4,4,4,4,5,4,2,4,4,4,5
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-014,5,5,5,5,5,5,5,4,5,5,5,5
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-015,3,5,4,3,4,5,3,3,4,5,4,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-016,4,5,5,4,5,5,4,3,5,3,5,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-017,3,3,4,3,4,,3,3,4,4,3,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-018,5,3,4,4,3,3,3,5,3,4,4,4
+People,SYNTHETIC_People_HR_Operations,SYNTHETIC_PERIOD_1,People_HR_Operations-019,4,4,4,4,4,4,4,4,5,4,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-001,4,4,4,3,4,4,4,4,5,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-002,4,3,4,3,4,4,3,3,4,4,4,3
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-003,4,4,4,4,5,3,3,3,5,5,4,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-004,3,5,4,3,4,3,3,3,4,5,4,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-005,4,5,4,2,4,3,3,4,3,5,4,3
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-006,5,4,4,5,5,4,5,4,5,4,5,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-007,5,3,5,3,4,4,4,4,4,4,5,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-008,4,,4,3,4,4,5,4,5,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-009,5,5,5,4,4,5,4,3,5,5,5,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-010,4,3,4,4,4,4,,4,4,4,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-011,4,5,4,3,4,4,2,4,3,4,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-012,5,3,5,3,,3,4,3,5,5,5,3
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-013,4,5,5,3,5,4,4,4,5,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-014,5,4,5,4,4,5,4,4,4,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-015,5,5,5,4,5,5,4,4,5,5,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-016,5,3,5,2,3,3,4,3,4,4,3,3
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-017,4,3,4,3,5,4,4,3,4,5,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-018,5,5,5,3,5,5,4,3,4,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-019,4,4,4,5,4,3,5,3,4,5,3,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-020,3,4,4,2,3,4,4,4,5,4,4,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-021,4,3,4,2,4,4,3,2,3,3,3,4
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-022,4,4,4,3,4,3,3,3,3,5,3,3
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-023,4,3,4,4,5,5,4,4,5,5,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-024,4,5,5,4,4,5,5,,5,5,5,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-025,5,3,4,4,3,5,4,3,4,4,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-026,4,5,5,4,4,3,4,2,4,5,4,
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-027,5,4,4,4,5,5,3,2,4,5,4,5
+People,SYNTHETIC_People_Benefits,SYNTHETIC_PERIOD_1,People_Benefits-028,4,4,5,4,5,4,4,4,5,5,,4

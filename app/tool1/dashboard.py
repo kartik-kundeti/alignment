@@ -137,7 +137,7 @@ def main():
                         for cid in ch.get('card_ids') or []:
                             c=cards.get(cid)
                             if c:
-                                st.markdown(f"**Evidence ({c['setting']}).** {c['finding']}  \n_{c['source']}, {c['locator']}. Limits: {c['limits']}_")
+                                st.markdown(f"{c['finding']} ({c['source']})")
                         if not ch.get('card_ids'):
                             st.caption('No evidence card applies to this change; it follows the rubric only.')
             st.subheader('Fill in the gaps and re-score')

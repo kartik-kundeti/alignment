@@ -1,3 +1,4 @@
+from pathlib import Path
 from dataclasses import asdict
 from streamlit.testing.v1 import AppTest
 from app.tool1.judge import JudgeResult
@@ -8,7 +9,7 @@ def coach():
 
 
 def test_shared_overview_and_message_page():
-    app=AppTest.from_file('streamlit_app.py').run()
+    app=AppTest.from_file(str(Path(__file__).resolve().parents[1]/'streamlit_app.py')).run()
     assert not app.exception and app.title[0].value=='CommsAlign'
     app=coach()
     assert not app.exception

@@ -1,0 +1,301 @@
+{
+ "version": "1.4",
+ "date": "2026-11-07",
+ "provenance": "Decided by Claude at the user's request, not reviewed by the team (Practicum_Agent DECISIONS.md F1 rows 20 to 22). Every link is team judgment based on wording overlap between a Q12 item and a source's construct; no source names Q12.",
+ "evidence_strength_meaning": {
+  "Stronger": "Passes all four evidence checks: close match, workplace or field evidence, a performance or behavior outcome, and no contrary result among the linked findings.",
+  "Moderate": "Workplace or field evidence with a performance or behavior outcome, but either the match is partial or a linked finding points the other way.",
+  "Limited": "No workplace evidence, no performance or behavior outcome, or both a partial match and a contrary result.",
+  "None": "No research from our corpus yet."
+ },
+ "areas": {
+  "Q01": {
+   "card_ids": [
+    "TI-D1-a",
+    "TI-D1-b",
+    "TI-D1-c",
+    "TI-D1-d",
+    "TI-D2-a",
+    "TI-D2-b",
+    "TI-D2-c",
+    "TI-D2-d"
+   ],
+   "evidence_strength": "Stronger",
+   "plain_label": "Knowing what is expected",
+   "plain_habits": [
+    "Say exactly what a finished piece of work looks like",
+    "Give a clear due date"
+   ],
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Role ambiguity, not knowing what is expected, is the Q01 construct (TI-D1-d)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace and field studies (Gilboa 2008; Dossett 1980; Dirkmaat 2023)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Supervisor-rated and objective performance (TI-D1-d); group performance (TI-D1-c)"
+    },
+    "D": {
+     "pass": true,
+     "why": "No linked card reports a contrary result"
+    }
+   },
+   "checklist_score": 4
+  },
+  "Q02": {
+   "card_ids": [
+    "TI-D4-d",
+    "TI-D4-e"
+   ],
+   "evidence_strength": "Moderate",
+   "plain_label": "Having the information and tools to do the work",
+   "plain_habits": [
+    "Point people to the information, tools, or person who can help"
+   ],
+   "checklist": {
+    "A": {
+     "pass": false,
+     "why": "Partial. Q02 covers materials and equipment as well as information; Tool 2's rubric also marks it partial"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace studies (Gilboa 2008; Alvero 2001)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Lower performance with missing information and tools (TI-D4-d)"
+    },
+    "D": {
+     "pass": true,
+     "why": "No linked card reports a contrary result"
+    }
+   },
+   "checklist_score": 3
+  },
+  "Q04": {
+   "card_ids": [
+    "PF-F1-c",
+    "PF-F1-b",
+    "PF-F1-a"
+   ],
+   "evidence_strength": "Moderate",
+   "plain_label": "Recognition for good work",
+   "plain_habits": [
+    "Praise the specific work, not the person"
+   ],
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Positive feedback from the supervisor is recognition (PF-F1-c)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace study (Su & Jiang 2023)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Supervisor-rated performance four weeks later (PF-F1-c)"
+    },
+    "D": {
+     "pass": false,
+     "why": "Kluger & DeNisi (1996) found weaker effects when feedback included praise (PF-F1-b)"
+    }
+   },
+   "checklist_score": 3
+  },
+  "Q05": {
+   "card_ids": [],
+   "evidence_strength": "None",
+   "checklist": {
+    "A": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "B": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "C": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "D": {
+     "pass": false,
+     "why": "No linked cards"
+    }
+   },
+   "checklist_score": 0
+  },
+  "Q06": {
+   "card_ids": [
+    "PF-F4-c",
+    "PF-F4-a",
+    "PF-F4-b"
+   ],
+   "evidence_strength": "Stronger",
+   "plain_label": "Encouragement to grow",
+   "plain_habits": [
+    "Give a concrete next step for improving"
+   ],
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Forward-looking developmental feedback is encouragement of development (PF-F4-c)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace study (Li, Liu & Sun 2026)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Supervisor-rated creativity, a rated work behavior, though not task performance (PF-F4-c limits)"
+    },
+    "D": {
+     "pass": true,
+     "why": "No linked card reports a contrary result"
+    }
+   },
+   "checklist_score": 4
+  },
+  "Q07": {
+   "card_ids": [
+    "TD-C9-a",
+    "TD-C9-c",
+    "TD-C9-d",
+    "TD-C9-b"
+   ],
+   "evidence_strength": "Moderate",
+   "plain_label": "Asking for and acting on input",
+   "plain_habits": [
+    "Ask the team for their input explicitly",
+    "Say what you will do with the input",
+    "Report back what was done with it, or why not"
+   ],
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Managerial openness to input matches 'my opinions seem to count' (TD-C9-a, TD-C9-b)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Field studies (Detert & Burris 2007; Edmondson 1999)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Voice behavior (TD-C9-a) and observer-rated team performance (TD-C9-d)"
+    },
+    "D": {
+     "pass": false,
+     "why": "Earlier survey studies found no link (Detert & Burris p.870); outcome evidence called limited (Morrison 2014)"
+    }
+   },
+   "checklist_score": 3
+  },
+  "Q08": {
+   "card_ids": [
+    "TI-D3-b",
+    "TI-D3-a"
+   ],
+   "evidence_strength": "Limited",
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Meaning-making language answers why the work is important (TI-D3-b)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace survey (Hanke 2022)"
+    },
+    "C": {
+     "pass": false,
+     "why": "Perception and trust only; no reliable performance link (TI-D3-a)"
+    },
+    "D": {
+     "pass": true,
+     "why": "No linked card reports a contrary result"
+    }
+   },
+   "checklist_score": 3
+  },
+  "Q09": {
+   "card_ids": [],
+   "evidence_strength": "None",
+   "checklist": {
+    "A": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "B": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "C": {
+     "pass": false,
+     "why": "No linked cards"
+    },
+    "D": {
+     "pass": false,
+     "why": "No linked cards"
+    }
+   },
+   "checklist_score": 0
+  },
+  "Q11": {
+   "card_ids": [
+    "TI-D5-a",
+    "TI-D5-b",
+    "TI-D5-c",
+    "PF-F3-a",
+    "PF-F3-b",
+    "PF-F3-d",
+    "PF-F3-e"
+   ],
+   "evidence_strength": "Moderate",
+   "plain_label": "Talking about progress",
+   "plain_habits": [
+    "Set a check-in point when assigning work",
+    "Compare progress with the goal or the last result"
+   ],
+   "checklist": {
+    "A": {
+     "pass": true,
+     "why": "Feedback on progress toward goals is the Q11 construct (TI-D5-a, PF-F3-a)"
+    },
+    "B": {
+     "pass": true,
+     "why": "Workplace studies (Sleiman 2020; Alvero 2001)"
+    },
+    "C": {
+     "pass": true,
+     "why": "Improved performance (TI-D5-c, PF-F3-e)"
+    },
+    "D": {
+     "pass": false,
+     "why": "Alvero (2001) found feedback with goal setting less consistent than feedback alone (TI-D5-c limits)"
+    }
+   },
+   "checklist_score": 3
+  }
+ },
+ "eligible_strengths": [
+  "Stronger",
+  "Moderate"
+ ],
+ "eligibility_note": "Only areas labelled Stronger or Moderate by the evidence checklist can become themes. Q01 Stronger (4/4), Q02 Moderate (3/4), Q04 Moderate (3/4), Q05 None (0/4), Q06 Stronger (4/4), Q07 Moderate (3/4), Q08 Limited (3/4), Q09 None (0/4), Q11 Moderate (3/4). Practicum_Agent DECISIONS.md F1 rows 24 to 26.",
+ "tool1_note": "Tool 2 does not link to Tool 1. The evidence cards are shared by both tools, but no area names a Tool 1 habit and the page has no message-type filter (user decision 2026-11-07, Practicum_Agent DECISIONS.md F1 row 25).",
+ "evidence_checklist": {
+  "checks": {
+   "A": "Match: the linked findings describe the construct the Q12 item asks about",
+   "B": "Setting: at least one linked finding comes from a workplace or field study",
+   "C": "Outcome: at least one linked finding reaches performance or rated work behavior, not only perception or trust",
+   "D": "Consistency: no linked card reports a contrary result"
+  },
+  "label_rule": "Stronger = all four pass. Moderate = B and C pass and exactly one of A or D fails. Limited = B or C fails, or both A and D fail. None = no linked cards.",
+  "score": "Tie-break score = number of checks passed (0 to 4). It only orders areas whose gaps are exactly equal; it never multiplies a gap.",
+  "provenance": "Applied by Claude at the user's request 2026-11-07 (Practicum_Agent DECISIONS.md F1 row 26). Team judgment, not a research finding. Not reviewed by the team."
+ }
+}

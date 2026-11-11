@@ -12,7 +12,7 @@ DASHBOARD=ROOT/'app/organizational/dashboard.py'
 
 def dashboard(name):
     # Exercise the actual page using an isolated fixture; no production file edits.
-    source=DASHBOARD.read_text().replace(
+    source=DASHBOARD.read_text(encoding='utf-8').replace(
         "SAMPLE_PATH = PROJECT_ROOT / 'data' / 'organizational' / 'sample_q12_results.csv'",
         'SAMPLE_PATH = Path('+repr(str(FIXTURES/(name+'.csv')))+')')
     source=source.replace('PROJECT_ROOT = Path(__file__).resolve().parents[2]',

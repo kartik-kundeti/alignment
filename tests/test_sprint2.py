@@ -41,7 +41,7 @@ def test_loading_reviews_does_not_change_analysis_or_rubric():
 
 def test_dashboard_shows_current_scope_sources_and_limits():
     from streamlit.testing.v1 import AppTest
-    app = AppTest.from_file('app/organizational/dashboard.py').run(timeout=30)
+    app = AppTest.from_file(str(Path(__file__).resolve().parents[1]/'app/organizational/dashboard.py')).run(timeout=30)
     assert not app.exception
     text = '\n'.join(v.value for v in app.markdown)
     assert 'Initial research reviews recorded: 9 of 9. Initial reviews not yet recorded: 0.' in text

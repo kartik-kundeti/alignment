@@ -21,3 +21,7 @@ presentation/~$*.pptx
 
 # Streamlit secrets
 .streamlit/secrets.toml
+
+# React frontend
+frontend/node_modules/
+frontend/dist/

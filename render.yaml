@@ -1,0 +1,16 @@
+# Render blueprint: one free web service built from the Dockerfile.
+services:
+  - type: web
+    name: commsalign
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: GW_AZURE_OPENAI_KEY
+        sync: false
+      - key: GW_ENDPOINT
+        sync: false
+      - key: GW_API_VERSION
+        sync: false
+      - key: GW_MODEL
+        sync: false

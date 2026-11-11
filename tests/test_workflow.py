@@ -7,7 +7,7 @@ from app.organizational.dashboard import SAMPLE_PATH
 from app.organizational.evidence_validation import load_evidence_validation_matrix
 from app.organizational.workflow import context_key, discussion_summary, prune_suppressed_notes
 
-DASHBOARD=Path('app/organizational/dashboard.py')
+DASHBOARD=Path(__file__).resolve().parents[1]/'app/organizational/dashboard.py'
 
 
 def field(elements,label):

@@ -1,0 +1,6 @@
+# Runtime packages for the hosted site only (Dockerfile). Streamlit and pytest are left out.
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+reportlab>=4.2,<5
+openai>=2,<3
+python-dotenv>=1.0,<2

@@ -1,6 +1,6 @@
 {
- "version": "0.3, decisions made by Claude",
- "date": "2026-10-19",
+ "version": "0.4",
+ "date": "2026-11-07",
  "note": "Every finding is a paraphrase of a passage already recorded with its locator in docs/rubric/sources_verification.md or docs/rubric/table_with_sources.md. No card adds a claim or a number. Cards from sources cited only in the evidence table were added under DECISIONS.md F1 row 11. Paraphrases count as unverified until a team member checks the page (team_checked).",
  "sources": {
   "S1": "Locke & Latham (2002)",
@@ -16,7 +16,10 @@
   "Dossett1980": "Dossett, Latham, & Saari (1980)",
   "Neubert1998": "Neubert (1998)",
   "Sleiman2020": "Sleiman et al. (2020)",
-  "Alvero2001": "Alvero, Bucklin, & Austin (2001)"
+  "Alvero2001": "Alvero, Bucklin, & Austin (2001)",
+  "Detert2007": "Detert & Burris (2007)",
+  "Morrison2014": "Morrison (2014)",
+  "Edmondson1999": "Edmondson (1999)"
  },
  "cards": [
   {
@@ -605,6 +608,70 @@
     "by": "Claude, at the user's request (2026-10-19). Not reviewed by the team.",
     "note": "Context card; the point that many effects are negative supports careful wording."
    }
+  },
+  {
+   "id": "TD-C9-a",
+   "rubric": "team_diagnostic",
+   "dimension": "C9_inviting_and_acting_on_input",
+   "source": "Detert2007",
+   "locator": "Study 1 results p.873 and p.876; Study 2 results p.879; discussion p.880",
+   "setting": "Field (restaurant chain, 3,149 crew and 223 shift managers)",
+   "finding": "Employees spoke up with improvement ideas more often when they saw their manager as open. Openness was the leader behavior most consistently tied to speaking up, and the link held ten months later after controlling for earlier voice.",
+   "limits": "Self-report perceptions only. Leader behaviors added about 6 percent of variance in Study 1 and 2 percent in Study 2. One low-wage service company (p.881). The authors note earlier survey studies found no such link (p.870).",
+   "team_checked": false,
+   "review": {
+    "decision": "Approve",
+    "by": "Drafted by Claude from the full PDF; added at the user's request (2026-11-07). Not reviewed by the team.",
+    "note": "Tool 2 only (rubric team_diagnostic). Tool 1 retrieval filters by rubric, so these cards never reach the Tool 1 rewriter."
+   }
+  },
+  {
+   "id": "TD-C9-b",
+   "rubric": "team_diagnostic",
+   "dimension": "C9_inviting_and_acting_on_input",
+   "source": "Detert2007",
+   "locator": "definition p.871; managerial implications p.882",
+   "setting": "Field",
+   "finding": "Openness means the manager listens, is interested in ideas, gives them fair consideration, and at least sometimes acts on what was raised. The authors advise managers to listen without defensiveness and to explain why they did or did not act on input.",
+   "limits": "The advice is the authors' implication and was not tested in the study.",
+   "team_checked": false,
+   "review": {
+    "decision": "Approve",
+    "by": "Drafted by Claude from the full PDF; added at the user's request (2026-11-07). Not reviewed by the team.",
+    "note": "Tool 2 only (rubric team_diagnostic). Tool 1 retrieval filters by rubric, so these cards never reach the Tool 1 rewriter."
+   }
+  },
+  {
+   "id": "TD-C9-c",
+   "rubric": "team_diagnostic",
+   "dimension": "C9_inviting_and_acting_on_input",
+   "source": "Morrison2014",
+   "locator": "p.182",
+   "setting": "Review",
+   "finding": "Employees speak up more when managers ask for input and consult them, because this signals that input is welcome. Employees hold back when they expect input not to be taken seriously or acted on.",
+   "limits": "Narrative review. Evidence that voice improves unit outcomes is described as limited (p.179, p.187). Voice can raise turnover when managers cannot respond to what is raised (McClean et al. 2013, cited p.188).",
+   "team_checked": false,
+   "review": {
+    "decision": "Approve",
+    "by": "Drafted by Claude from the full PDF; added at the user's request (2026-11-07). Not reviewed by the team.",
+    "note": "Tool 2 only (rubric team_diagnostic). Tool 1 retrieval filters by rubric, so these cards never reach the Tool 1 rewriter."
+   }
+  },
+  {
+   "id": "TD-C9-d",
+   "rubric": "team_diagnostic",
+   "dimension": "C9_inviting_and_acting_on_input",
+   "source": "Edmondson1999",
+   "locator": "results pp.365 to 368, Tables 4 to 6; appendix p.382",
+   "setting": "Field (51 teams in one manufacturer)",
+   "finding": "Teams whose members felt safe to bring up problems and tough issues showed more learning behavior, such as asking for help, seeking feedback and discussing errors, and that behavior predicted performance as rated by people outside the team. Leader coaching was related to this sense of safety.",
+   "limits": "Cross-sectional, one company, 51 teams. The author says the construct is not yet separated from trust and the antecedent findings are tentative (p.378). Coaching was near significance (p = .06, Table 6).",
+   "team_checked": false,
+   "review": {
+    "decision": "Approve",
+    "by": "Drafted by Claude from the full PDF; added at the user's request (2026-11-07). Not reviewed by the team.",
+    "note": "Tool 2 only (rubric team_diagnostic). Tool 1 retrieval filters by rubric, so these cards never reach the Tool 1 rewriter."
+   }
   }
  ],
  "excluded": [
@@ -671,5 +738,6 @@
   "left_out_agreed": 6,
   "pages_rechecked": false,
   "note": "Pages were not reopened in this review. Every paraphrase stays unverified until a team member checks the locator (team_checked)."
- }
+ },
+ "tool2_note": "Cards with rubric team_diagnostic (TD-C9-a to d) are for Tool 2 area Q07 only and are not used by Tool 1. Added at the user's request 2026-11-07 (Practicum_Agent DECISIONS.md F1 row 24). Draft and checklist in docs/tool2/q07_q09_evidence_draft.md."
 }

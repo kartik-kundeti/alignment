@@ -1,3 +1,4 @@
+from pathlib import Path
 """Privacy boundaries, aggregate quality rules and evidence review safeguards."""
 from dataclasses import replace
 import io
@@ -65,7 +66,7 @@ def test_evidence_pending_cannot_be_promoted():
 
 def test_dashboard_suppression_stops_before_scores_and_downloads():
     from streamlit.testing.v1 import AppTest
-    app = AppTest.from_file('app/organizational/dashboard.py').run()
+    app = AppTest.from_file(str(Path(__file__).resolve().parents[1]/'app/organizational/dashboard.py')).run()
     assert not app.exception
     app.sidebar.number_input[0].set_value(10000).run()
     assert not app.exception

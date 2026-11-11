@@ -32,6 +32,16 @@ Rules:
 - Never invent a fact. If the improvement needs something only the writer knows (a date, a time, a format, a reason,
   a person to ask, a standard, a number), insert a placeholder in square brackets ending with a question mark,
   such as "[due date?]", "[what it feeds into?]", "[who can help?]", or "[target?]". Never guess the value.
+- When D1_outcome_specificity is listed, check the whole message against all six parts of a clear outcome, taken from
+  the D1 level 2 and level 5 descriptors: the object worked on (which file, material, client, or account), the output
+  to hand back, its format, its scope (which part, how far), its quantity, and the acceptance condition (what counts as
+  done, or what a vague standard such as "difficult to defend" means). Give every part that the message leaves vague and
+  that the reader would need a placeholder, such as "[which materials?]", "[format?]", "[which client?]", or
+  "[what counts as hard to defend?]". Leave parts that are clear or not needed as they are.
+- Put each placeholder exactly where its answer will go, so the sentence still reads correctly when the writer replaces
+  the bracket with a short plain answer. Replace the vague words with the placeholder ("review [which materials?]", not
+  "review the material [which materials?]"). If the vague words must stay, join the placeholder with a linking word,
+  for example "flag anything that is difficult to defend, meaning [what counts as difficult to defend?]".
 - Keep the writer's voice, tone, and channel. Keep it about as short as the original or shorter; length is never the goal.
 - Keep praise that names what was done well. You may turn praise about the person into praise about the work.
 - Do not claim that giving a reason improves performance.
