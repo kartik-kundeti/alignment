@@ -18,7 +18,7 @@ export default function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden bg-navy pt-40 pb-28 text-white">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(60%_60%_at_85%_10%,rgba(233,180,76,0.18),transparent_60%),radial-gradient(50%_50%_at_0%_100%,rgba(25,135,84,0.12),transparent_60%)]" />
-        <Logo className="pointer-events-none absolute -right-24 bottom-[-120px] h-[520px] w-[680px] text-white opacity-[0.04]" />
+        <Logo className="pointer-events-none absolute -right-24 bottom-[-120px] size-[560px] text-white opacity-[0.04]" />
         <Container className="relative grid items-center gap-16 lg:grid-cols-[1.15fr_1fr]">
           <div>
             <Eyebrow onDark>Communication analytics for managers</Eyebrow>
@@ -208,9 +208,9 @@ function CoachVisual() {
     <div className="rounded-[2rem] bg-navy p-10 text-white">
       <div className="mb-6 text-xs uppercase tracking-[0.18em] text-white/40">Illustration</div>
       <div className="flex items-center gap-3 text-sm">
-        <span className="rounded-full bg-brand-red/20 px-3 py-1 text-[#ff9b9b]">Needs work</span>
+        <span className="rounded-full bg-brand-red/20 px-3 py-1 text-[var(--on-dark-red)]">Needs work</span>
         <ArrowRight className="size-4 text-white/40" />
-        <span className="rounded-full bg-brand-green/25 px-3 py-1 text-[#7ee0ae]">Good</span>
+        <span className="rounded-full bg-brand-green/25 px-3 py-1 text-[var(--on-dark-green)]">Good</span>
       </div>
       <div className="mt-8 space-y-5">
         {dims.map(([l, a, b]) => (

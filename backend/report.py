@@ -51,14 +51,30 @@ def _styles():
     }
 
 
+def _mark(canvas, x, y, size):
+    """Logo B drawn on the navy band: a white speech bubble, two navy text lines, a gold dot. x, y is the bottom left."""
+    k = size / 64
+    canvas.setFillColor(colors.white)
+    canvas.roundRect(x + 6 * k, y + 18 * k, 52 * k, 38 * k, 12 * k, stroke=0, fill=1)
+    p = canvas.beginPath()
+    p.moveTo(x + 18 * k, y + 20 * k); p.lineTo(x + 18 * k, y + 8 * k); p.lineTo(x + 32 * k, y + 20 * k); p.close()
+    canvas.drawPath(p, stroke=0, fill=1)
+    canvas.setStrokeColor(NAVY); canvas.setLineCap(1); canvas.setLineWidth(4.5 * k)
+    canvas.line(x + 17 * k, y + 42 * k, x + 47 * k, y + 42 * k)
+    canvas.line(x + 17 * k, y + 32 * k, x + 35 * k, y + 32 * k)
+    canvas.setFillColor(GOLD)
+    canvas.circle(x + 44 * k, y + 32 * k, 4 * k, stroke=0, fill=1)
+
+
 def _frame(canvas, doc):
     """Navy band with the product name on every page, and a footer line."""
     canvas.saveState()
     canvas.setFillColor(NAVY)
     canvas.rect(0, PAGE_H - 0.55 * inch, PAGE_W, 0.55 * inch, stroke=0, fill=1)
+    _mark(canvas, MARGIN, PAGE_H - 0.44 * inch, 0.24 * inch)
     canvas.setFillColor(colors.white)
     canvas.setFont("Helvetica-Bold", 12)
-    canvas.drawString(MARGIN, PAGE_H - 0.35 * inch, "CommsAlign")
+    canvas.drawString(MARGIN + 0.32 * inch, PAGE_H - 0.35 * inch, "CommsAlign")
     canvas.setFillColor(GOLD)
     canvas.setFont("Helvetica", 9)
     canvas.drawRightString(PAGE_W - MARGIN, PAGE_H - 0.35 * inch, "Team Diagnostic brief")

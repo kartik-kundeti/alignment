@@ -55,7 +55,7 @@ export default function TeamDiagnostic() {
           <span className="ml-auto hidden text-xs uppercase tracking-[0.16em] text-navy/40 lg:inline">Simulated data</span>
           {o && (
             <a href={`/api/tool2/report/${view}?id=${encodeURIComponent(view === 'team' ? team : view === 'department' ? dept : '')}`} download
-              className="ml-auto inline-flex items-center gap-2 rounded-full bg-brand-green px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-green/90 lg:ml-0">
+              className="ml-auto inline-flex items-center gap-2 rounded-full bg-brand-accent px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-accent/90 lg:ml-0">
               <Download className="size-4" /> Download brief (PDF)
             </a>
           )}
@@ -247,7 +247,7 @@ function Kpis({ items }: { items: Kpi[] }) {
       {items.map((k, i) => (
         <div key={k.label} className={cn('px-6 py-6', i % 2 === 1 && 'border-l border-white/10', i > 1 && 'border-t border-white/10 lg:border-t-0', i === 2 && 'lg:border-l')}>
           <div className="text-xs font-semibold uppercase tracking-[0.16em] text-white/50">{k.label}</div>
-          <div className={cn('mt-2 font-semibold tabular-nums tracking-tight', k.small ? 'text-2xl' : 'text-4xl', k.tone === 'red' ? 'text-[#FF8A80]' : k.tone === 'green' ? 'text-[#7FD8A8]' : 'text-white')}>{k.value}</div>
+          <div className={cn('mt-2 font-semibold tabular-nums tracking-tight', k.small ? 'text-2xl' : 'text-4xl', k.tone === 'red' ? 'text-[var(--on-dark-red)]' : k.tone === 'green' ? 'text-[var(--on-dark-green)]' : 'text-white')}>{k.value}</div>
           {k.sub && <div className="mt-1 text-sm text-white/55">{k.sub}</div>}
         </div>
       ))}

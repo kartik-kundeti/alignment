@@ -2,13 +2,12 @@ import ReactECharts from 'echarts-for-react'
 import { Link } from 'react-router-dom'
 
 import type { AreaResult, Cell, Company } from '@/lib/api'
+import { usePalette, type Palette } from '@/lib/colorblind'
 import { cn } from '@/lib/utils'
 
 const NAVY = '#17233B'
-const RED = '#C62828'
 const GOLD = '#E9B44C'
 
-const GREEN = '#198754'
 const GREY = '#8A94A6'
 const MUTED = '#5B6576'
 const FONT = "'Inter Variable', system-ui, sans-serif"
@@ -20,8 +19,8 @@ export const SHORT: Record<string, string> = {
 
 type AreaRef = { item_id: string; label: string }
 
-const dotColor = (a: AreaResult) =>
-  a.rank ? (a.status === 'Clear gap' ? RED : GOLD) : a.gap <= 0 ? GREEN : GREY
+const dotColor = (a: AreaResult, p: Palette) =>
+  a.rank ? (a.status === 'Clear gap' ? p.red : GOLD) : a.gap <= 0 ? p.green : GREY
 
 const axisX = (name: string) => ({
   type: 'value', min: 2.5, max: 5, interval: 0.5, name, nameLocation: 'middle', nameGap: 30,
@@ -38,6 +37,7 @@ const floorLine = (floor: number) => ({
 export function Scorecard({ areas, order, floor }: { areas: AreaResult[]; order: AreaRef[]; floor: number }) {
   const rows = order.map((o) => areas.find((a) => a.item_id === o.item_id)).filter(Boolean) as AreaResult[]
   const labels = rows.map((a) => SHORT[a.item_id] ?? a.label)
+  const pal = usePalette()
   return (
     <ReactECharts
       style={{ height: 52 * rows.length + 60 }}
@@ -74,7 +74,7 @@ export function Scorecard({ areas, order, floor }: { areas: AreaResult[]; order:
           },
           {
             name: 'This group', type: 'scatter', symbolSize: 17, z: 3,
-            data: rows.map((a, i) => ({ value: [a.mean, i], itemStyle: { color: dotColor(a), opacity: 1 }, label: { position: a.mean < a.company ? 'left' : 'right' } })),
+            data: rows.map((a, i) => ({ value: [a.mean, i], itemStyle: { color: dotColor(a, pal), opacity: 1 }, label: { position: a.mean < a.company ? 'left' : 'right' } })),
             label: { show: true, position: 'right', distance: 10, formatter: (p: { value: number[] }) => p.value[0].toFixed(2), color: NAVY, fontWeight: 600, fontSize: 12 },
           },
         ],
@@ -86,6 +86,7 @@ export function Scorecard({ areas, order, floor }: { areas: AreaResult[]; order:
 /** Company average per area with the spread from the lowest to the highest team. */
 export function CompanyRange({ data, floor }: { data: Company['scorecard']; floor: number }) {
   const labels = data.map((a) => SHORT[a.item_id] ?? a.label)
+  const pal = usePalette()
   return (
     <ReactECharts
       style={{ height: 56 * data.length + 60 }}
@@ -114,11 +115,11 @@ export function CompanyRange({ data, floor }: { data: Company['scorecard']; floo
             data: data.map((a, i) => [a.low, a.high, i]),
           },
           {
-            type: 'scatter', symbolSize: 9, z: 2, silent: true, itemStyle: { color: RED },
+            type: 'scatter', symbolSize: 9, z: 2, silent: true, itemStyle: { color: pal.red },
             data: data.map((a, i) => [a.low, i]),
           },
           {
-            type: 'scatter', symbolSize: 9, z: 2, silent: true, itemStyle: { color: GREEN },
+            type: 'scatter', symbolSize: 9, z: 2, silent: true, itemStyle: { color: pal.green },
             data: data.map((a, i) => [a.high, i]),
           },
           {
@@ -134,16 +135,17 @@ export function CompanyRange({ data, floor }: { data: Company['scorecard']; floo
 }
 
 /** Cell colour: red below the company average, green above, stronger with distance. */
-function tint(diff: number) {
+function tint(diff: number, p: Palette) {
   if (Math.abs(diff) < 0.05) return { background: '#F5F7FA', color: NAVY }
   const alpha = 0.12 + Math.min(Math.abs(diff) / 0.7, 1) * 0.78
-  return { background: diff < 0 ? `rgba(198,40,40,${alpha})` : `rgba(25,135,84,${alpha})`, color: alpha > 0.55 ? '#fff' : NAVY }
+  return { background: `rgba(${diff < 0 ? p.redRgb : p.greenRgb},${alpha})`, color: alpha > 0.55 ? '#fff' : NAVY }
 }
 
 export type GridRow = { key: string; label: string; sub?: string; to?: string; group?: string; cells: Record<string, Cell> }
 
 /** Groups (rows) by areas (columns). Each cell shows the score; colour shows the difference from the company. */
 export function Grid({ rows, areas }: { rows: GridRow[]; areas: AreaRef[] }) {
+  const pal = usePalette()
   return (
     <div className="overflow-x-auto">
       <table className="w-full min-w-[640px] border-separate border-spacing-1">
@@ -171,7 +173,7 @@ export function Grid({ rows, areas }: { rows: GridRow[]; areas: AreaRef[] }) {
                   const c = r.cells[a.item_id]
                   if (!c) return <td key={a.item_id} className="rounded-md bg-navy/5 text-center text-xs text-navy/30">n/a</td>
                   return (
-                    <td key={a.item_id} style={tint(c.diff)} title={`${a.label}: ${c.mean.toFixed(2)} (${c.diff >= 0 ? '+' : ''}${c.diff.toFixed(2)} vs company)${c.theme ? `, ${c.theme}` : ''}`}
+                    <td key={a.item_id} style={tint(c.diff, pal)} title={`${a.label}: ${c.mean.toFixed(2)} (${c.diff >= 0 ? '+' : ''}${c.diff.toFixed(2)} vs company)${c.theme ? `, ${c.theme}` : ''}`}
                       className={cn('h-11 min-w-20 rounded-md text-center text-sm font-semibold tabular-nums', c.theme && 'ring-2 ring-inset', c.theme === 'Clear gap' ? 'ring-navy' : c.theme ? 'ring-brand-gold' : '')}>
                       {c.mean.toFixed(2)}
                     </td>
@@ -184,7 +186,7 @@ export function Grid({ rows, areas }: { rows: GridRow[]; areas: AreaRef[] }) {
       </table>
       <div className="mt-4 flex flex-wrap items-center gap-x-6 gap-y-2 text-sm text-navy/60">
         <span className="inline-flex items-center gap-2">
-          <span className="h-3 w-24 rounded-full" style={{ background: 'linear-gradient(90deg, rgba(198,40,40,.9), #F5F7FA, rgba(25,135,84,.9))' }} />
+          <span className="h-3 w-24 rounded-full" style={{ background: `linear-gradient(90deg, rgba(${pal.redRgb},.9), #F5F7FA, rgba(${pal.greenRgb},.9))` }} />
           Below company, above company
         </span>
         <span className="inline-flex items-center gap-2"><span className="size-4 rounded ring-2 ring-inset ring-navy" />Clear gap</span>

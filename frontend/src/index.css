@@ -60,6 +60,8 @@
     --brand-green: #198754;
     --brand-gold: #E9B44C;
     --brand-accent: #00754A; /* accent green, sampled from a Gallup web page screenshot (G2 row 9) */
+    --on-dark-red: #FF8A80;   /* red and green text on navy */
+    --on-dark-green: #7FD8A8;
     --background: #F5F7FA;
     --foreground: #17233B;
     --card: #FFFFFF;
@@ -138,4 +140,15 @@
   html {
     @apply font-sans;
     }
+}
+/* Colour-blind friendly mode (G2 row 16): Okabe and Ito (2008) palette. Blue replaces green for good results,
+   vermillion replaces red for gaps. Gold and the brand accent green are unchanged. */
+html.cb {
+    --brand-red: #D55E00;
+    --brand-green: #0072B2;
+    --destructive: #D55E00;
+    --chart-2: #D55E00;
+    --chart-4: #0072B2;
+    --on-dark-red: #FFB27A;
+    --on-dark-green: #7FC4F0;
 }
